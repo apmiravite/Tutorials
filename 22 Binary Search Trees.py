@@ -1,0 +1,10 @@
+    def getHeight(self,root):
+        #Write your code here
+        if root is None:
+            return -1
+        hL=self.getHeight(root.left)
+        hR=self.getHeight(root.right)
+        
+        if hL>hR:
+            return 1+hL
+        else: return 1+hR
