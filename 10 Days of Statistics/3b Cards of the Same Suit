@@ -1,0 +1,15 @@
+Objective
+In this challenge, we're getting started with combinations and permutations.
+
+
+Task
+You draw 2 cards from a standard 52-card deck without replacing them. What is the probability that both cards are of the same suit?
+
+a. 1 / 156
+b. 1 / 39
+c. 12 / 39
+d. 12 / 51
+
+Solution: The number of ways to select 2 cards out of the 52-card deck is C(52,2). The number of ways of selecting 2 cards of the same suit from the deck of 52 cards is 4*(C(13,2)
+
+[4*(C(13,2))]/C(52,2)= 12/51
