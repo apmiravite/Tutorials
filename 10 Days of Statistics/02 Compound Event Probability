@@ -1,0 +1,27 @@
+Objective
+In this challenge, we practice calculating the probability of a compound event.
+
+
+Task
+There are  urns labeled X, Y, and Z.
+
+
+Urn X contains 4 red balls and 3 black balls.
+Urn Y contains 5 red balls and 4 black balls.
+Urn Z contains 4 red balls and 4 black balls.
+
+One ball is drawn from each of the 3 urns. What is the probability that, of the 3 balls drawn, 2 are red and 1 is black?
+
+a. 10 / 63
+b. 2 / 7
+c. 17 / 42
+d. 31 / 126
+
+Solution: The number of ways you can get two red and 1 black ball is 204, broken down as follows:
+Case 1: The black ball comes from urn Z (4*5*4 = 80)
+Case 2: The black ball comes from urn Y (4*4*4 = 64)
+Case 3: The black ball comes from urn Z (3*5*4 = 60)
+
+The number of ways to select 3 balls from each of the urns is 7*8*9 = 504
+
+204/504= 17/42
