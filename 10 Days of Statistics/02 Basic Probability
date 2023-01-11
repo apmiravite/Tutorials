@@ -1,0 +1,15 @@
+Objective
+In this challenge, we practice calculating probability.
+
+
+Task
+In a single toss of  fair (evenly-weighted) six-sided dice, find the probability that their sum will be at most 9.
+
+a. 2 / 3
+b. 5 / 6
+c. 1 / 4
+d. 1 / 6
+
+
+Solution: The answer is 5/6. We can remove the probability when the sum is 10 (3/36), 11 (2/36), or 12 (1/36) from the universal set.
+1-6/36 = 30/36 = 5/6
