@@ -25,5 +25,12 @@ Repository for HackerRank Tutorials
 | [5: Poisson Distribution II](https://www.hackerrank.com/challenges/s10-poisson-distribution-2/problem?isFullScreen=true)  | [Python](https://github.com/apmiravite/Tutorials/blob/main/10%20Days%20of%20Statistics/05b%20Poisson%20Distribution%20II.py)  | 
 | [5: Standard Normal Distribution I](https://www.hackerrank.com/challenges/s10-normal-distribution-1/problem?isFullScreen=true)  | [Python](https://github.com/apmiravite/Tutorials/blob/main/10%20Days%20of%20Statistics/05c%20Normal%20Distribution%20I.py)  | 
 | [5: Standard Normal Distribution II](https://www.hackerrank.com/challenges/s10-normal-distribution-2/problem?isFullScreen=true)  | [Python](https://github.com/apmiravite/Tutorials/blob/main/10%20Days%20of%20Statistics/05d%20Normal%20Distribution%20II.py)  | 
+| [6: Central Limit Theorem I](https://www.hackerrank.com/challenges/s10-the-central-limit-theorem-1/problem?isFullScreen=true)  | [Python](https://github.com/apmiravite/Tutorials/blob/main/10%20Days%20of%20Statistics/06a%20Central%20Limit%20Theorem%20I.py)  | 
+| [6: Central Limit Theorem II](https://www.hackerrank.com/challenges/s10-the-central-limit-theorem-2/problem?isFullScreen=true)  | [Python](https://github.com/apmiravite/Tutorials/blob/main/10%20Days%20of%20Statistics/06b%20Central%20Limit%20Theorem%20II.py)  | 
+| [6: Central Limit Theorem III](https://www.hackerrank.com/challenges/s10-the-central-limit-theorem-3/problem?isFullScreen=true)  | [Python](https://github.com/apmiravite/Tutorials/blob/main/10%20Days%20of%20Statistics/06c%20Central%20Limit%20Theorem%20III.py)  | 
+| [7: Pearson Correlation Coefficient](https://www.hackerrank.com/challenges/s10-pearson-correlation-coefficient/problem?isFullScreen=true)  | [Python](https://github.com/apmiravite/Tutorials/blob/main/10%20Days%20of%20Statistics/07a%20Pearson%20Correlation%20Coefficient%20I.py)  | 
+| [8: Least Square Regression Line](https://www.hackerrank.com/challenges/s10-least-square-regression-line/problem?isFullScreen=true)  | [Python](https://github.com/apmiravite/Tutorials/blob/main/10%20Days%20of%20Statistics/08a%20Least%20Square%20Regression%20Line.py)  | 
+| [9: Multiple Linear Regression](https://www.hackerrank.com/challenges/s10-multiple-linear-regression/problem?isFullScreen=true)  | [Python](https://github.com/apmiravite/Tutorials/blob/main/10%20Days%20of%20Statistics/09a%20Multiple%20Linear%20Regression.py)  | 
+
 
 [30 Days of Code](https://github.com/apmiravite/Tutorials/tree/30-Days-of-Code)
