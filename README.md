@@ -18,6 +18,9 @@ Repository for HackerRank Tutorials
 | [3: Cards of the Same Suit](https://www.hackerrank.com/challenges/s10-mcq-5/problem?isFullScreen=true)  | [text](https://github.com/apmiravite/Tutorials/blob/main/10%20Days%20of%20Statistics/03b%20Cards%20of%20the%20Same%20Suit)  | 
 | [3: Drawing Marbles](https://www.hackerrank.com/challenges/s10-mcq-6/problem?isFullScreen=true)  | [text](https://github.com/apmiravite/Tutorials/blob/main/10%20Days%20of%20Statistics/03c%20Drawing%20Marbles)  | 
 | [4: Binomial Distribution I](https://www.hackerrank.com/challenges/s10-binomial-distribution-1/problem?isFullScreen=true)  | [Python](https://github.com/apmiravite/Tutorials/blob/main/10%20Days%20of%20Statistics/04a%20Binomial%20Distribution%20I.py)  | 
+| [4: Binomial Distribution II](https://www.hackerrank.com/challenges/s10-binomial-distribution-2/problem?isFullScreen=true)  | [Python](https://github.com/apmiravite/Tutorials/blob/main/10%20Days%20of%20Statistics/04b%20Binomial%20Distribution%20II.py)  | 
+| [4: Geometric Distribution I](https://www.hackerrank.com/challenges/s10-geometric-distribution-1/problem?isFullScreen=true)  | [Python](https://github.com/apmiravite/Tutorials/blob/main/10%20Days%20of%20Statistics/04c%20Geometric%20Distribution%20I.py)  | 
+| [4: Geometric Distribution II](https://www.hackerrank.com/challenges/s10-geometric-distribution-2/problem?isFullScreen=true)  | [Python](https://github.com/apmiravite/Tutorials/blob/main/10%20Days%20of%20Statistics/04d%20Geometric%20Distribution%20II.py)  | 
 
 
 [30 Days of Code](https://github.com/apmiravite/Tutorials/tree/30-Days-of-Code)
