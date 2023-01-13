@@ -12,8 +12,12 @@ Repository for HackerRank Tutorials
 | [1: Interquartile Range](https://www.hackerrank.com/challenges/s10-interquartile-range/problem?isFullScreen=true)  | [Python](https://github.com/apmiravite/Tutorials/blob/main/10%20Days%20of%20Statistics/01b%20Interquartile%20Range.py)  | 
 | [1: Standard Deviation](https://www.hackerrank.com/challenges/s10-standard-deviation/problem?isFullScreen=true)  | [Python](https://github.com/apmiravite/Tutorials/blob/main/10%20Days%20of%20Statistics/01c%20Standard%20Deviation.py)  | 
 | [2: Basic Probability](https://www.hackerrank.com/challenges/s10-mcq-1/problem?isFullScreen=true)  | [text](https://github.com/apmiravite/Tutorials/blob/main/10%20Days%20of%20Statistics/02a%20Basic%20Probability)  | 
-| [Weather Observation Station 1](https://www.hackerrank.com/challenges/weather-observation-station-1/problem?isFullScreen=true)  | [MySQL](https://github.com/apmiravite/SQL/blob/Basic/Weather%20observation%20station%2001.sql)  | 
-| [Weather Observation Station 3](https://www.hackerrank.com/challenges/weather-observation-station-3/problem?isFullScreen=true)  | [MySQL](https://github.com/apmiravite/SQL/blob/Basic/Weather%20observation%20station%2003.sql)  | 
-| [Weather Observation Station 4](https://www.hackerrank.com/challenges/weather-observation-station-4/problem?isFullScreen=true)  | [MySQL](https://github.com/apmiravite/SQL/blob/Basic/Weather%20observation%20station%2004.sql)  | 
+| [2: More Dice](https://www.hackerrank.com/challenges/s10-mcq-2/problem?isFullScreen=true)  | [text](https://github.com/apmiravite/Tutorials/blob/main/10%20Days%20of%20Statistics/02b%20More%20Dice)  | 
+| [2: Compound Event Probability](https://www.hackerrank.com/challenges/s10-mcq-3/problem?isFullScreen=true)  | [text](https://github.com/apmiravite/Tutorials/blob/main/10%20Days%20of%20Statistics/02c%20Compound%20Event%20Probabilityl)  | 
+| [3: Conditional Probability](https://www.hackerrank.com/challenges/s10-mcq-4/problem?isFullScreen=true)  | [text](https://github.com/apmiravite/Tutorials/blob/main/10%20Days%20of%20Statistics/03a%20Conditional%20Probability)  | 
+| [3: Cards of the Same Suit](https://www.hackerrank.com/challenges/s10-mcq-5/problem?isFullScreen=true)  | [text](https://github.com/apmiravite/Tutorials/blob/main/10%20Days%20of%20Statistics/03b%20Cards%20of%20the%20Same%20Suit)  | 
+| [3: Drawing Marbles](https://www.hackerrank.com/challenges/s10-mcq-6/problem?isFullScreen=true)  | [text](https://github.com/apmiravite/Tutorials/blob/main/10%20Days%20of%20Statistics/03c%20Drawing%20Marbles)  | 
+| [4: Binomial Distribution I](https://www.hackerrank.com/challenges/s10-binomial-distribution-1/problem?isFullScreen=true)  | [Python](https://github.com/apmiravite/Tutorials/blob/main/10%20Days%20of%20Statistics/04a%20Binomial%20Distribution%20I.py)  | 
+
 
 [30 Days of Code](https://github.com/apmiravite/Tutorials/tree/30-Days-of-Code)
