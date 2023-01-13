@@ -21,6 +21,9 @@ Repository for HackerRank Tutorials
 | [4: Binomial Distribution II](https://www.hackerrank.com/challenges/s10-binomial-distribution-2/problem?isFullScreen=true)  | [Python](https://github.com/apmiravite/Tutorials/blob/main/10%20Days%20of%20Statistics/04b%20Binomial%20Distribution%20II.py)  | 
 | [4: Geometric Distribution I](https://www.hackerrank.com/challenges/s10-geometric-distribution-1/problem?isFullScreen=true)  | [Python](https://github.com/apmiravite/Tutorials/blob/main/10%20Days%20of%20Statistics/04c%20Geometric%20Distribution%20I.py)  | 
 | [4: Geometric Distribution II](https://www.hackerrank.com/challenges/s10-geometric-distribution-2/problem?isFullScreen=true)  | [Python](https://github.com/apmiravite/Tutorials/blob/main/10%20Days%20of%20Statistics/04d%20Geometric%20Distribution%20II.py)  | 
-
+| [5: Poisson Distribution I](https://www.hackerrank.com/challenges/s10-poisson-distribution-1/problem?isFullScreen=true)  | [Python](https://github.com/apmiravite/Tutorials/blob/main/10%20Days%20of%20Statistics/05a%20Poisson%20Distribution%20I.py)  | 
+| [5: Poisson Distribution II](https://www.hackerrank.com/challenges/s10-poisson-distribution-2/problem?isFullScreen=true)  | [Python](https://github.com/apmiravite/Tutorials/blob/main/10%20Days%20of%20Statistics/05b%20Poisson%20Distribution%20II.py)  | 
+| [5: Standard Normal Distribution I](https://www.hackerrank.com/challenges/s10-normal-distribution-1/problem?isFullScreen=true)  | [Python](https://github.com/apmiravite/Tutorials/blob/main/10%20Days%20of%20Statistics/05c%20Normal%20Distribution%20I.py)  | 
+| [5: Standard Normal Distribution II](https://www.hackerrank.com/challenges/s10-normal-distribution-2/problem?isFullScreen=true)  | [Python](https://github.com/apmiravite/Tutorials/blob/main/10%20Days%20of%20Statistics/05d%20Normal%20Distribution%20II.py)  | 
 
 [30 Days of Code](https://github.com/apmiravite/Tutorials/tree/30-Days-of-Code)
