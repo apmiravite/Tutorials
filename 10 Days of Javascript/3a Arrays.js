@@ -5,15 +5,20 @@
 **/
 function getSecondLargest(nums) {
     // Complete the function
-    const unique = (value, index, self) => {
-        return self.indexOf(value) === index
+    //return nums
+    let largest_num=nums[0]
+    let nextLargest=nums[0]
+    for (let i in nums){
+        if (nums[i]>largest_num){
+            nextLargest=largest_num
+            largest_num=nums[i]
+        }
+        if (nums[i]>nextLargest && nums[i]!=largest_num){
+            nextLargest=nums[i]
+        }
     }
+    return nextLargest
     
-    const uniqueNums = nums.filter(unique)
-    
-    uniqueNums.sort()
-    let i=uniqueNums.length
-    return(uniqueNums[i-2])
 }
 
 
