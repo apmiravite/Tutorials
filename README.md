@@ -37,10 +37,10 @@ Repository for HackerRank Tutorials
 | Challenge  | Solution |
 | ------------- | ------------- |
 | [0: Hello, World!](https://www.hackerrank.com/challenges/js10-hello-world/problem?isFullScreen=true)  | [solution](https://github.com/apmiravite/Tutorials/blob/main/10%20Days%20of%20Javascript/0a%20Hello%2C%20World.js)  |
-| [0: Weighted Mean](https://www.hackerrank.com/challenges/s10-weighted-mean/problem?isFullScreen=true)  | [Python](https://github.com/apmiravite/Tutorials/blob/main/10%20Days%20of%20Statistics/00b%20Weighted%20Mean.py)  | 
-| [1: Quartiles](https://www.hackerrank.com/challenges/s10-quartiles/problem?isFullScreen=true)  | [Python](https://github.com/apmiravite/Tutorials/blob/main/10%20Days%20of%20Statistics/01a%20Quartiles.py)  | 
-| [1: Interquartile Range](https://www.hackerrank.com/challenges/s10-interquartile-range/problem?isFullScreen=true)  | [Python](https://github.com/apmiravite/Tutorials/blob/main/10%20Days%20of%20Statistics/01b%20Interquartile%20Range.py)  | 
-| [1: Standard Deviation](https://www.hackerrank.com/challenges/s10-standard-deviation/problem?isFullScreen=true)  | [Python](https://github.com/apmiravite/Tutorials/blob/main/10%20Days%20of%20Statistics/01c%20Standard%20Deviation.py)  | 
+| [0: Data Types](https://www.hackerrank.com/challenges/js10-data-types/problem?isFullScreen=true)  | [solution](https://github.com/apmiravite/Tutorials/blob/main/10%20Days%20of%20Javascript/0b%20Data%20Types.js)  | 
+| [1: Arithmetic Operators](https://www.hackerrank.com/challenges/js10-arithmetic-operators/problem?isFullScreen=true)  | [solution](https://github.com/apmiravite/Tutorials/blob/main/10%20Days%20of%20Javascript/1a%20Arithmetic%20Operators.js)  | 
+| [1: Functions](https://www.hackerrank.com/challenges/js10-function/problem?isFullScreen=true)  | [solution](https://github.com/apmiravite/Tutorials/blob/main/10%20Days%20of%20Javascript/1b%20Functions.js)  | 
+| [1: Let and Const](https://www.hackerrank.com/challenges/js10-let-and-const/problem?isFullScreen=true)  | [solution](https://github.com/apmiravite/Tutorials/blob/main/10%20Days%20of%20Javascript/1c%20Let%20and%20Const.js)  | 
 | [2: Basic Probability](https://www.hackerrank.com/challenges/s10-mcq-1/problem?isFullScreen=true)  | [text](https://github.com/apmiravite/Tutorials/blob/main/10%20Days%20of%20Statistics/02a%20Basic%20Probability)  | 
 | [2: More Dice](https://www.hackerrank.com/challenges/s10-mcq-2/problem?isFullScreen=true)  | [text](https://github.com/apmiravite/Tutorials/blob/main/10%20Days%20of%20Statistics/02b%20More%20Dice)  | 
 | [2: Compound Event Probability](https://www.hackerrank.com/challenges/s10-mcq-3/problem?isFullScreen=true)  | [text](https://github.com/apmiravite/Tutorials/blob/main/10%20Days%20of%20Statistics/02c%20Compound%20Event%20Probabilityl)  | 
