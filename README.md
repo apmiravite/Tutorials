@@ -32,7 +32,7 @@ Repository for HackerRank Tutorials
 | [8: Least Square Regression Line](https://www.hackerrank.com/challenges/s10-least-square-regression-line/problem?isFullScreen=true)  | [Python](https://github.com/apmiravite/Tutorials/blob/main/10%20Days%20of%20Statistics/08a%20Least%20Square%20Regression%20Line.py)  | 
 | [9: Multiple Linear Regression](https://www.hackerrank.com/challenges/s10-multiple-linear-regression/problem?isFullScreen=true)  | [Python](https://github.com/apmiravite/Tutorials/blob/main/10%20Days%20of%20Statistics/09a%20Multiple%20Linear%20Regression.py)  | 
 
-<b>10 Days of JavaScript</b>
+<b>10 Days of JavaScript (in progress)</b>
 
 | Challenge  | Solution |
 | ------------- | ------------- |
