@@ -51,6 +51,7 @@ Repository for HackerRank Tutorials
 | [4: Count Objects](https://www.hackerrank.com/challenges/js10-count-objects/problem?isFullScreen=true)  | [solution](https://github.com/apmiravite/Tutorials/blob/main/10%20Days%20of%20Javascript/4b%20Count%20Objects.js)  | 
 | [4: Classes](https://www.hackerrank.com/challenges/js10-class/problem?isFullScreen=true)  | [solution](https://github.com/apmiravite/Tutorials/blob/main/10%20Days%20of%20Javascript/4c%20Classes.js)  | 
 | [5: Inheritance](https://www.hackerrank.com/challenges/js10-inheritance/problem)  | [solution](https://github.com/apmiravite/Tutorials/blob/main/10%20Days%20of%20Javascript/5a%20Inheritance.js)  | 
+| [5: Arrow Functions](https://www.hackerrank.com/challenges/js10-arrows/problem?isFullScreen=true)  | [solution](https://github.com/apmiravite/Tutorials/blob/main/10%20Days%20of%20Javascript/5c%20Arrow%20Functions.js)  | 
 
 
 [30 Days of Code](https://github.com/apmiravite/Tutorials/tree/30-Days-of-Code)
