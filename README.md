@@ -53,6 +53,6 @@ Repository for HackerRank Tutorials
 | [5: Inheritance](https://www.hackerrank.com/challenges/js10-inheritance/problem)  | [solution](https://github.com/apmiravite/Tutorials/blob/main/10%20Days%20of%20Javascript/5a%20Inheritance.js)  | 
 | [5: Arrow Functions](https://www.hackerrank.com/challenges/js10-arrows/problem?isFullScreen=true)  | [solution](https://github.com/apmiravite/Tutorials/blob/main/10%20Days%20of%20Javascript/5c%20Arrow%20Functions.js)  | 
 | [6: Javascript Dates](https://www.hackerrank.com/challenges/js10-date/problem?isFullScreen=true)  | [solution](https://github.com/apmiravite/Tutorials/blob/main/10%20Days%20of%20Javascript/6b%20Javascript%20Dates.js)  | 
-
+| [7: Regular Expressions I](https://www.hackerrank.com/challenges/js10-regexp-1/problem)  | [solution](https://github.com/apmiravite/Tutorials/blob/main/10%20Days%20of%20Javascript/7a%20Regular%20Expressions%20I.js)  | 
 
 [30 Days of Code](https://github.com/apmiravite/Tutorials/tree/30-Days-of-Code)
